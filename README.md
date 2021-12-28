@@ -1,5 +1,8 @@
 # Olá eu sou Felipe Akel
 
+<p align = "center">
+  <img align="center" alt="Akel-Gif" height="250" width="330" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
 
 ## Tecnologias e ferramentas que utilizo:
