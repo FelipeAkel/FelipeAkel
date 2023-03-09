@@ -1,12 +1,16 @@
 # Olá eu sou Felipe Akel
 
-<p align = "center">
-  <img align="center" alt="Programador PHP"  src="img/programador-php.gif">
+<p id="text" align = "center">
+  Programador PHP
   <br>
-  <img align="center" alt="Web Designer"  src="img/web-designer.gif">
+  Web Designer
   <br>
-  <img align="center" alt="Analista de Sistemas"  src="img/analista-sistemas.gif">
+  Analista de Sistemas
 </p>
+  <!-- <img align="center" alt="Programador PHP"  src="img/programador-php.gif"> -->
+  <!-- <img align="center" alt="Web Designer"  src="img/web-designer.gif"> -->
+  <!-- <img align="center" alt="Analista de Sistemas"  src="img/analista-sistemas.gif"> -->
+
 
 <p align = "center">
   <img align="center" alt="Usuário do Computador" height="250" width="330" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -56,3 +60,23 @@
   <a href = "mailto:felipe.akel01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-akel-carvalho-florentino-009412135" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<script>
+
+    var i = 0;
+    var tag = document.getElementById("text");
+    var html = document.getElementById("text").innerHTML;
+    var attr = tag.setAttribute("data", html);
+    var txt = tag.getAttribute("data");
+    var speed = 170;
+
+    function typeWriter() {
+      if (i <= txt.length) {
+        document.getElementById("text").innerHTML = txt.slice(0 , i + 1);
+        i++;
+        setTimeout(typeWriter, speed);
+      }
+    }
+
+typeWriter();
+
+</script>
