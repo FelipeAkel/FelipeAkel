@@ -1,11 +1,13 @@
 # Olá eu sou Felipe Akel
 
 <p align = "center">
-  <img align="center" alt="Akel-Gif"  src="texto-intro-2.gif">
+  <img align="center" alt="Programador PHP"  src="img/programador-php.gif">
+  <img align="center" alt="Web Designer"  src="img/web-designer.gif">
+  <img align="center" alt="Analista de Sistemas"  src="img/analista-sistemas.gif">
 </p>
 
 <p align = "center">
-  <img align="center" alt="Akel-Gif" height="250" width="330" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="center" alt="Usuário do Computador" height="250" width="330" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 
@@ -20,6 +22,7 @@
   <img title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img title="PHP" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img title="PHP Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+  <img title="Git e GitHub" height="30" width="40" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png">
   <img title="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img title="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
