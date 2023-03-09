@@ -1,12 +1,12 @@
 # Olá eu sou Felipe Akel
 
-<p id="text" size="25" align = "center">
+<h3 align = "center">
   <strong>Programador PHP
   <br>
   Web Designer
   <br>
   Analista de Sistemas</strong>
-</p>
+</h3>
   <!-- <img align="center" alt="Programador PHP"  src="img/programador-php.gif"> -->
   <!-- <img align="center" alt="Web Designer"  src="img/web-designer.gif"> -->
   <!-- <img align="center" alt="Analista de Sistemas"  src="img/analista-sistemas.gif"> -->
