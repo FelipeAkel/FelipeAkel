@@ -2,7 +2,9 @@
 
 <p align = "center">
   <img align="center" alt="Programador PHP"  src="img/programador-php.gif">
+  <br>
   <img align="center" alt="Web Designer"  src="img/web-designer.gif">
+  <br>
   <img align="center" alt="Analista de Sistemas"  src="img/analista-sistemas.gif">
 </p>
 
